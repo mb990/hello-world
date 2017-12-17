@@ -1,2 +1,4 @@
 # hello-world
-test
+This is a test message.
+
+This is a learning project of a student.
